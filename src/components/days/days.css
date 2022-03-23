@@ -1,0 +1,20 @@
+.list_days {
+  display: flex;
+  list-style: none;
+  flex-direction: row;
+  flex-wrap: wrap;  
+  justify-content: space-around;
+  margin: auto;
+  padding-top: 22px;
+  color: #8d8d8d;
+  font-size: 28px;
+  width: 2500px;
+}
+
+.list_days selected {
+  color: #ffffff;
+}
+
+.list_days li {
+  width: 70px;
+}

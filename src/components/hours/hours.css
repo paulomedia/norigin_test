@@ -1,0 +1,20 @@
+.list_hours {
+  display: flex;
+  list-style: none;
+  flex-direction: row;
+  flex-wrap: nowrap;  
+  justify-content: flex-start;
+  margin: auto;
+  padding-top: 22px;
+  padding-left: 0px;
+  color: #ffffff;
+  font-size: 25px;
+  width: 8065px;
+  margin-left: 90px;
+}
+
+.hour {
+  width: 65px;
+  text-align: left;
+  margin-right: 305px;
+}

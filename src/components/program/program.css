@@ -1,0 +1,17 @@
+.program {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  border: 1px solid #000000;
+  height: 120px;
+}
+
+.programs {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;  
+  justify-content: flex-start;
+  list-style: none;
+  margin: auto;
+  margin-left: 120px;
+}

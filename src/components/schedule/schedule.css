@@ -1,0 +1,27 @@
+
+.schedule {
+  background-color: rgb(0, 0, 0); 
+  border: 1px solid #7d7b7b;
+  height: 120px;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+}
+
+.title p {
+  margin: auto;
+  color: white;
+  position: relative;
+  margin-left: 10px;
+  margin-top: 10px;
+  text-align: left;
+}
+
+.title span {
+    color:#7d7b7b;
+    position: relative;
+    margin-left: 10px;
+    width: 92px;
+}
